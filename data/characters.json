@@ -1,0 +1,66 @@
+{
+    "Arlecchino": {
+        "element": "Pyro",
+        "burst_type": "cost60_cd15",
+        "types": [
+            {
+                "label": "Press",
+                "particles": 5,
+                "cooldown": 30
+            }
+        ]
+    },
+    "Yelan": {
+        "element": "Hydro",
+        "burst_type": "cost70_cd18",
+        "types": [
+            {
+                "label": "Press",
+                "particles": 4,
+                "cooldown": 10
+            }
+        ]
+    },
+    "Thoma": {
+        "element": "Pyro",
+        "burst_type": "cost80_cd20",
+        "types": [
+            {
+                "label": "Press [Average]",
+                "particles": 3.4,
+                "cooldown": 15
+            },
+            {
+                "label": "Press [Safe]",
+                "particles": 3.2,
+                "cooldown": 15
+            },
+            {
+                "label": "Press [Worst Case]",
+                "particles": 3,
+                "cooldown": 15
+            }
+        ]
+    },
+    "Bennett": {
+        "element": "Pyro",
+        "burst_type": "cost60_cd15",
+        "types": [
+            {
+                "label": "Press [Average]",
+                "particles": 2.25,
+                "cooldown": 4
+            },
+            {
+                "label": "Press [Safe]",
+                "particles": 2.13,
+                "cooldown": 4
+            },
+            {
+                "label": "Press [Worst Case]",
+                "particles": 2,
+                "cooldown": 4
+            }
+        ]
+    }
+}

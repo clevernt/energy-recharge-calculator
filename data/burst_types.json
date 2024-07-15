@@ -1,0 +1,30 @@
+{
+    "cost40_cd12": {
+        "cost": 40,
+        "cooldown": 12
+    },
+    "cost50_cd13.5": {
+        "cost": 50,
+        "cooldown": 13.5
+    },
+    "cost60_cd15": {
+        "cost": 60,
+        "cooldown": 15
+    },
+    "cost70_cd18": {
+        "cost": 70,
+        "cooldown": 18
+    },
+    "cost80_cd20": {
+        "cost": 80,
+        "cooldown": 20
+    },
+    "cost90_cd18": {
+        "cost": 90,
+        "cooldown": 18
+    },
+    "cost90_cd22": {
+        "cost": 90,
+        "cooldown": 22
+    }
+}
